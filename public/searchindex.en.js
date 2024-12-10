@@ -5,7 +5,7 @@ var relearn_searchindex = [
     "description": "This is a new chapter.",
     "tags": [],
     "title": "First Chapter",
-    "uri": "/first-chapter/index.html"
+    "uri": "/python_niv1/les-bases/index.html"
   },
   {
     "breadcrumb": "",
@@ -13,7 +13,7 @@ var relearn_searchindex = [
     "description": "",
     "tags": [],
     "title": "Categories",
-    "uri": "/categories/index.html"
+    "uri": "/python_niv1/categories/index.html"
   },
   {
     "breadcrumb": "",
@@ -21,6 +21,6 @@ var relearn_searchindex = [
     "description": "",
     "tags": [],
     "title": "Tags",
-    "uri": "/tags/index.html"
+    "uri": "/python_niv1/tags/index.html"
   }
 ]

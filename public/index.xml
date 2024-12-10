@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://localhost:1313/index.html</link>
-    <description>This is your new home page.</description>
+    <title>Python pour la data :: Python</title>
+    <link>http://localhost:1313/python_niv1/index.html</link>
+    <description>Support de formation Vous trouverez sur ce site l’ensemble des points évoqués lors de la formation présentielle, notamment la liste des ressources numériques utilisées avec leurs liens directs ainsi qu’un rappel des principaux concepts.</description>
     <generator>Hugo</generator>
-    <language>fr-fr</language>
+    <language>en</language>
     <lastBuildDate>Tue, 10 Dec 2024 15:04:39 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/python_niv1/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First Chapter</title>
-      <link>http://localhost:1313/first-chapter/index.html</link>
+      <title>Les bases</title>
+      <link>http://localhost:1313/python_niv1/les-bases/index.html</link>
       <pubDate>Tue, 10 Dec 2024 15:04:39 +0100</pubDate>
-      <guid>http://localhost:1313/first-chapter/index.html</guid>
-      <description>This is a new chapter.</description>
+      <guid>http://localhost:1313/python_niv1/les-bases/index.html</guid>
+      <description>Ce chapitre s’adresse aux débutants : on part de 0 !&#xA;Au programme :&#xA;Python, c’est quoi ? Les variables Les conditions Les boucles</description>
     </item>
   </channel>
 </rss>

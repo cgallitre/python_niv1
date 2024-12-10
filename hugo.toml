@@ -1,4 +1,12 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://cgallitre.github.io/python_niv1/'
 languageCode = 'fr-fr'
-title = 'My New Hugo Site'
+title = 'Python'
 theme = 'hugo-theme-relearn'
+
+[params]
+  themeVariant = ['relearn-light', 'relearn-dark']
+
+[languages]
+  [languages.en]
+    [languages.en.params]
+      landingPageName = '<i class="fa-fw fas fa-home"></i> Accueil'

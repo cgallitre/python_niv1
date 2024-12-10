@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Les bases :: Python</title>
+    <link>http://localhost:1313/python_niv1/les-bases/index.html</link>
+    <description>Ce chapitre s’adresse aux débutants : on part de 0 !&#xA;Au programme :&#xA;Python, c’est quoi ? Les variables Les conditions Les boucles</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 10 Dec 2024 15:04:39 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/python_niv1/les-bases/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Définition</title>
+      <link>http://localhost:1313/python_niv1/les-bases/0-definition/index.html</link>
+      <pubDate>Tue, 10 Dec 2024 15:04:39 +0100</pubDate>
+      <guid>http://localhost:1313/python_niv1/les-bases/0-definition/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Les variables</title>
+      <link>http://localhost:1313/python_niv1/les-bases/1-variables/index.html</link>
+      <pubDate>Tue, 10 Dec 2024 15:04:39 +0100</pubDate>
+      <guid>http://localhost:1313/python_niv1/les-bases/1-variables/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Les conditions</title>
+      <link>http://localhost:1313/python_niv1/les-bases/2-conditions/index.html</link>
+      <pubDate>Tue, 10 Dec 2024 15:04:39 +0100</pubDate>
+      <guid>http://localhost:1313/python_niv1/les-bases/2-conditions/index.html</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
