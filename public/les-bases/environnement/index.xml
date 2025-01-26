@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Environnement :: Python</title>
+    <link>http://localhost:1313/python_niv1/les-bases/environnement/index.html</link>
+    <description>Choisir son environnement N’importe quel éditeur de texte peut être utilisé pour coder en Python. Mais attention, on parle d’éditeur de texte, pas de “traitement de texte” (comme Word par exemple).&#xA;Voici quelques exemples :&#xA;Sublime Text : très utilisé il y a quelques années mais nécessite une licence Visual Studio Code : de Microsoft, gratuit et assez léger, il permet de changer de version de Python rapidement. Il existe également des environnements de développement complets (IDE) :</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/python_niv1/les-bases/environnement/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

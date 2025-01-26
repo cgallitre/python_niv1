@@ -3,30 +3,37 @@
   <channel>
     <title>Les bases :: Python</title>
     <link>http://localhost:1313/python_niv1/les-bases/index.html</link>
-    <description>Ce chapitre s’adresse aux débutants : on part de 0 !&#xA;Au programme :&#xA;Python, c’est quoi ? Les variables Les conditions Les boucles</description>
+    <description>Ce chapitre s’adresse aux débutants : on part de 0 !&#xA;Au programme :&#xA;Python, c’est quoi ? Installer son environnement de développement Les variables Les conditions Les boucles</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 10 Dec 2024 15:04:39 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/python_niv1/les-bases/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Définition</title>
-      <link>http://localhost:1313/python_niv1/les-bases/0-definition/index.html</link>
+      <link>http://localhost:1313/python_niv1/les-bases/definition/index.html</link>
       <pubDate>Tue, 10 Dec 2024 15:04:39 +0100</pubDate>
-      <guid>http://localhost:1313/python_niv1/les-bases/0-definition/index.html</guid>
-      <description></description>
+      <guid>http://localhost:1313/python_niv1/les-bases/definition/index.html</guid>
+      <description>Les origines Python est un langage qui a été créé en 1991, aux Pays-Bas, par Guido van Rossum, développeur dans un laboratoire de recherche pour le gouvernement.&#xA;Le nom est un hommage aux humoristes anglais “les Monty Python”, particulièrement appréciés par Guido. Rien à voir avec un serpent donc ;-)&#xA;Qu’est ce que Python ? Python est un langage de programmation de haut niveau doté d’une syntaxe parmi les plus utilisé au monde.</description>
+    </item>
+    <item>
+      <title>Environnement</title>
+      <link>http://localhost:1313/python_niv1/les-bases/environnement/index.html</link>
+      <pubDate>Tue, 10 Dec 2024 15:04:39 +0100</pubDate>
+      <guid>http://localhost:1313/python_niv1/les-bases/environnement/index.html</guid>
+      <description>Choisir son environnement N’importe quel éditeur de texte peut être utilisé pour coder en Python. Mais attention, on parle d’éditeur de texte, pas de “traitement de texte” (comme Word par exemple).&#xA;Voici quelques exemples :&#xA;Sublime Text : très utilisé il y a quelques années mais nécessite une licence Visual Studio Code : de Microsoft, gratuit et assez léger, il permet de changer de version de Python rapidement. Il existe également des environnements de développement complets (IDE) :</description>
     </item>
     <item>
       <title>Les variables</title>
-      <link>http://localhost:1313/python_niv1/les-bases/1-variables/index.html</link>
+      <link>http://localhost:1313/python_niv1/les-bases/variables/index.html</link>
       <pubDate>Tue, 10 Dec 2024 15:04:39 +0100</pubDate>
-      <guid>http://localhost:1313/python_niv1/les-bases/1-variables/index.html</guid>
-      <description></description>
+      <guid>http://localhost:1313/python_niv1/les-bases/variables/index.html</guid>
+      <description>https://python.developpez.com/actu/355437/Python-creuse-l-ecart-et-renforce-son-avance-en-tant-que-langage-de-programmation-le-plus-populaire-sur-l-indice-TIOBE-mais-pourquoi-le-langage-est-il-autant-prise/&#xA;Popularité :&#xA;https://www.tiobe.com/tiobe-index/</description>
     </item>
     <item>
       <title>Les conditions</title>
-      <link>http://localhost:1313/python_niv1/les-bases/2-conditions/index.html</link>
+      <link>http://localhost:1313/python_niv1/les-bases/conditions/index.html</link>
       <pubDate>Tue, 10 Dec 2024 15:04:39 +0100</pubDate>
-      <guid>http://localhost:1313/python_niv1/les-bases/2-conditions/index.html</guid>
+      <guid>http://localhost:1313/python_niv1/les-bases/conditions/index.html</guid>
       <description></description>
     </item>
   </channel>
